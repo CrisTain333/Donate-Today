@@ -59,6 +59,7 @@
     justify-content: space-around;
     flex-wrap: wrap;
 }
+
 h5{
     margin: 30px auto;
     padding-top: 3%;
@@ -234,6 +235,12 @@ color: rgb(105, 101, 101);
     font-size: 2rem;
     text-align: center;
     padding-top: 20px;
+}
+.work-heading{
+    font-family: Ubuntu;
+    font-size: 50px;
+    text-align: center;
+    margin: 5%;
 }
 .sub-fot-heading{
     color: rgb(188, 184, 184);
